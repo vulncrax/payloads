@@ -1,3 +1,5 @@
+/////www.google.com
+/////www.google.com/
 /%09/google.com
 /%2f%2fgoogle.com
 /%2f%5c%2f%67%6f%6f%67%6c%65%2e%63%6f%6d/
